@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const EMPLOYEE_API_BASE_URL = "https://api.여기에도메인추가/api/v1/employees";
+const EMPLOYEE_API_BASE_URL = "https://api.jjj0.shop/api/v1/employees";
 
 class EmployeeService {
 
